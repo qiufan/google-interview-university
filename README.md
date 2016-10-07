@@ -180,7 +180,7 @@ from public sources and replacing the online course videos over time. I like usi
     - [ ] (very dated) http://dondodge.typepad.com/the_next_big_thing/2010/09/how-to-get-a-job-at-google-interview-questions-hiring-process.html
     - [ ] http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions
 
-- [] Additional (not suggested by Google but I added):
+- [ ] Additional (not suggested by Google but I added):
     - [ ] https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4
     - [ ] https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.asalo1vfx
     - [ ] https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1
@@ -209,13 +209,13 @@ You need to be very comfortable in the language, and be knowledgeable. Read more
 
 You'll see some C, C++, and Python learning included below, because I'm learning. There are a few books involved, see the bottom.
 
-- [ ] **How computers process a program:**
-    - [ ] https://www.youtube.com/watch?v=42KTvGYQYnA
-    - [ ] https://www.youtube.com/watch?v=Mv2XQgpbTNE
+- [x] **How computers process a program:**
+    - [x] https://www.youtube.com/watch?v=42KTvGYQYnA
+    - [x] https://www.youtube.com/watch?v=Mv2XQgpbTNE
 
 - [ ] **How floating point numbers are stored:**
-    - [ ] simple 8-bit: http://math.stackexchange.com/questions/301435/fractions-in-binary
-    - [ ] 32 bit: https://www.youtube.com/watch?v=ji3SfClm8TU
+    - [x] simple 8-bit: http://math.stackexchange.com/questions/301435/fractions-in-binary
+    - [x] 32 bit: https://www.youtube.com/watch?v=ji3SfClm8TU
     - [ ] 64 bit: https://www.youtube.com/watch?v=50ZYcZebIec
 
 - [ ] **Computer Arch Intro:**
