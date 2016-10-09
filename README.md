@@ -298,7 +298,7 @@ Then test it out on a computer to make sure it's not buggy from syntax.
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 - nothing to implement
 - [x] Harvard CS50 - Asymptotic Notation: https://www.youtube.com/watch?v=iOq5kSKqeR4
-- [ ] Big O Notations (general quick tutorial) - https://www.youtube.com/watch?v=V6mKVRU1evU
+- [x] Big O Notations (general quick tutorial) - https://www.youtube.com/watch?v=V6mKVRU1evU
 - [ ] Big O Notation (and Omega and Theta) - best mathematical explanation:
     - https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN
 - [ ] Skiena:
