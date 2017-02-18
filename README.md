@@ -332,7 +332,7 @@ Then test it out on a computer to make sure it's not buggy from syntax.
         - Jagged: https://www.lynda.com/Developer-Programming-Foundations-tutorials/Jagged-arrays/149042/177106-4.html
         - Resizing arrays:
             - https://www.lynda.com/Developer-Programming-Foundations-tutorials/Resizable-arrays/149042/177108-4.html
-    - [ ] Implement a vector (mutable array with automatic resizing):
+    - [x] Implement a vector (mutable array with automatic resizing):
         - [x] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
         - [x] new raw data array with allocated memory
             - can allocate int array under the hood, just not use its features
