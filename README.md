@@ -362,17 +362,17 @@ Then test it out on a computer to make sure it's not buggy from syntax.
         - space needed = (array capacity, which is >= n) * size of item, but even if 2n, still O(n)
 
 - ### Linked Lists
-    - [ ] Description:
-        - [ ] https://www.coursera.org/learn/data-structures/lecture/kHhgK/singly-linked-lists
-        - [ ] CS 61B - Linked lists: https://www.youtube.com/watch?v=sJtJOtXCW_M&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd&index=5
-    - [ ] C Code: https://www.youtube.com/watch?v=QN6FPiD0Gzo
+    - [x] Description:
+        - [x] https://www.coursera.org/learn/data-structures/lecture/kHhgK/singly-linked-lists
+        - [x] CS 61B - Linked lists: https://www.youtube.com/watch?v=sJtJOtXCW_M&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd&index=5
+    - [x] C Code: https://www.youtube.com/watch?v=QN6FPiD0Gzo
             - not the whole video, just portions about Node struct and memory allocation.
-    - [ ] Linked List vs Arrays:
+    - [x] Linked List vs Arrays:
         - https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/rjBs9/core-linked-lists-vs-arrays
         - https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/QUaUd/in-the-real-world-lists-vs-arrays
-    - [ ] why you should avoid linked lists:
+    - [x] why you should avoid linked lists:
         - https://www.youtube.com/watch?v=YQs6IC-vgmo
-    - [ ] Gotcha: you need pointer to pointer knowledge:
+    - [x] Gotcha: you need pointer to pointer knowledge:
         (for when you pass a pointer to a function that may change the address where that pointer points)
         This page is just to get a grasp on ptr to ptr. I don't recommend this list traversal style. Readability and maintainability suffer due to cleverness.
         - https://www.eskimo.com/~scs/cclass/int/sx8.html
