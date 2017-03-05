@@ -459,16 +459,16 @@ Then test it out on a computer to make sure it's not buggy from syntax.
         - The first half is enough.
 
 - ### Binary search
-    - [ ] https://www.youtube.com/watch?v=D5SrAga1pno
-    - [ ] https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search
-    - [ ] detail: https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/
-    - [ ] Implement:
+    - [x] https://www.youtube.com/watch?v=D5SrAga1pno
+    - [x] https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search
+    - [x] detail: https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/
+    - [x] Implement:
         - binary search (on sorted array of integers)
         - binary search using recursion
 
 - ### Bitwise operations
-    - [ ] [Bits cheat sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/bits-cheat-cheet.pdf) - you should know many of the powers of 2 from (2^1 to 2^16 and 2^32)
-    - [ ] Get a really good understanding of manipulating bits with: &, |, ^, ~, >>, <<
+    - [x] [Bits cheat sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/bits-cheat-cheet.pdf) - you should know many of the powers of 2 from (2^1 to 2^16 and 2^32)
+    - [x] Get a really good understanding of manipulating bits with: &, |, ^, ~, >>, <<
         - [ ] words: https://en.wikipedia.org/wiki/Word_(computer_architecture)
         - [ ] Good intro:
             https://www.youtube.com/watch?v=7jkIUgLC29I
@@ -478,19 +478,19 @@ Then test it out on a computer to make sure it's not buggy from syntax.
         - [ ] https://graphics.stanford.edu/~seander/bithacks.html
         - [ ] http://bits.stephan-brumme.com/
         - [ ] http://bits.stephan-brumme.com/interactive.html
-    - [ ] 2s and 1s complement
+    - [x] 2s and 1s complement
         - https://www.youtube.com/watch?v=lKTsv6iVxV4
         - https://en.wikipedia.org/wiki/Ones%27_complement
         - https://en.wikipedia.org/wiki/Two%27s_complement
-    - [ ] count set bits
+    - [x] count set bits
         - https://youtu.be/Hzuzo9NJrlc
         - https://graphics.stanford.edu/~seander/bithacks.html#CountBitsSetKernighan
         - http://stackoverflow.com/questions/109023/how-to-count-the-number-of-set-bits-in-a-32-bit-integer
-    - [ ] round to next power of 2:
+    - [x] round to next power of 2:
         - http://bits.stephan-brumme.com/roundUpToNextPowerOfTwo.html
-    - [ ] swap values:
+    - [x] swap values:
         - http://bits.stephan-brumme.com/swap.html
-    - [ ] absolute value:
+    - [x] absolute value:
         - http://bits.stephan-brumme.com/absInteger.html
 
 ## Trees
