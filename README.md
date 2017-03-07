@@ -496,8 +496,8 @@ Then test it out on a computer to make sure it's not buggy from syntax.
 ## Trees
 
 - ### Trees - Notes & Background
-    - [ ] Series: https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/ovovP/core-trees
-    - [ ] Series: https://www.coursera.org/learn/data-structures/lecture/95qda/trees
+    - [x] Series: https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/ovovP/core-trees
+    - [x] Series: https://www.coursera.org/learn/data-structures/lecture/95qda/trees
     - basic tree construction
     - traversal
     - manipulation algorithms
@@ -518,11 +518,11 @@ Then test it out on a computer to make sure it's not buggy from syntax.
         - preorder (DFS: self, left, right)
 
 - ### Binary search trees: BSTs
-    - [ ] Binary Search Tree Review: https://www.youtube.com/watch?v=x6At0nzX92o&index=1&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6
-    - [ ] Series: https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/p82sw/core-introduction-to-binary-search-trees
+    - [x] Binary Search Tree Review: https://www.youtube.com/watch?v=x6At0nzX92o&index=1&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6
+    - [x] Series: https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/p82sw/core-introduction-to-binary-search-trees
         - starts with symbol table and goes through BST applications
-    - [ ] https://www.coursera.org/learn/data-structures/lecture/E7cXP/introduction
-    - [ ] MIT: https://www.youtube.com/watch?v=9Jry5-82I68
+    - [x] https://www.coursera.org/learn/data-structures/lecture/E7cXP/introduction
+    - [x] MIT: https://www.youtube.com/watch?v=9Jry5-82I68
     - C/C++:
         - [ ] https://www.youtube.com/watch?v=COZK7NATh4k&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=28
         - [ ] https://www.youtube.com/watch?v=hWokyBoo0aI&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=29
