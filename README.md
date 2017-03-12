@@ -549,18 +549,18 @@ Then test it out on a computer to make sure it's not buggy from syntax.
 
 - ### Heap / Priority Queue / Binary Heap
     - visualized as a tree, but is usually linear in storage (array, linked list)
-    - [ ] https://en.wikipedia.org/wiki/Heap_(data_structure)
-    - [ ] https://www.coursera.org/learn/data-structures/lecture/2OpTs/introduction
-    - [ ] https://www.coursera.org/learn/data-structures/lecture/z3l9N/naive-implementations
-    - [ ] https://www.coursera.org/learn/data-structures/lecture/GRV2q/binary-trees
-    - [ ] https://www.coursera.org/learn/data-structures/supplement/S5xxz/tree-height-remark
-    - [ ] https://www.coursera.org/learn/data-structures/lecture/GRV2q/binary-trees
-    - [ ] https://www.coursera.org/learn/data-structures/lecture/0g1dl/basic-operations
-    - [ ] https://www.coursera.org/learn/data-structures/lecture/gl5Ni/complete-binary-trees
-    - [ ] https://www.coursera.org/learn/data-structures/lecture/HxQo9/pseudocode
+    - [x] https://en.wikipedia.org/wiki/Heap_(data_structure)
+    - [x] https://www.coursera.org/learn/data-structures/lecture/2OpTs/introduction
+    - [x] https://www.coursera.org/learn/data-structures/lecture/z3l9N/naive-implementations
+    - [x] https://www.coursera.org/learn/data-structures/lecture/GRV2q/binary-trees
+    - [x] https://www.coursera.org/learn/data-structures/supplement/S5xxz/tree-height-remark
+    - [x] https://www.coursera.org/learn/data-structures/lecture/GRV2q/binary-trees
+    - [x] https://www.coursera.org/learn/data-structures/lecture/0g1dl/basic-operations
+    - [x] https://www.coursera.org/learn/data-structures/lecture/gl5Ni/complete-binary-trees
+    - [x] https://www.coursera.org/learn/data-structures/lecture/HxQo9/pseudocode
     - [ ] Heap Sort - jumps to start: https://youtu.be/odNJmw5TOEE?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3291
-    - [ ] Heap Sort: https://www.coursera.org/learn/data-structures/lecture/hSzMO/heap-sort
-    - [ ] Building a heap: https://www.coursera.org/learn/data-structures/lecture/dwrOS/building-a-heap
+    - [x] Heap Sort: https://www.coursera.org/learn/data-structures/lecture/hSzMO/heap-sort
+    - [x] Building a heap: https://www.coursera.org/learn/data-structures/lecture/dwrOS/building-a-heap
     - [ ] MIT: Heaps and Heap Sort: https://www.youtube.com/watch?v=B7hVxCmfPtM&index=4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
     - [ ] CS 61B Lecture 24: Priority Queues: https://www.youtube.com/watch?v=yIUFT6AKBGE&index=24&list=PL4BBB74C7D2A1049C
     - [ ] Linear Time BuildHeap (max-heap): https://www.youtube.com/watch?v=MiyLo8adrWw
