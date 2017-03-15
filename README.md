@@ -558,13 +558,13 @@ Then test it out on a computer to make sure it's not buggy from syntax.
     - [x] https://www.coursera.org/learn/data-structures/lecture/0g1dl/basic-operations
     - [x] https://www.coursera.org/learn/data-structures/lecture/gl5Ni/complete-binary-trees
     - [x] https://www.coursera.org/learn/data-structures/lecture/HxQo9/pseudocode
-    - [ ] Heap Sort - jumps to start: https://youtu.be/odNJmw5TOEE?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3291
+    - [x] Heap Sort - jumps to start: https://youtu.be/odNJmw5TOEE?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3291
     - [x] Heap Sort: https://www.coursera.org/learn/data-structures/lecture/hSzMO/heap-sort
     - [x] Building a heap: https://www.coursera.org/learn/data-structures/lecture/dwrOS/building-a-heap
-    - [ ] MIT: Heaps and Heap Sort: https://www.youtube.com/watch?v=B7hVxCmfPtM&index=4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
-    - [ ] CS 61B Lecture 24: Priority Queues: https://www.youtube.com/watch?v=yIUFT6AKBGE&index=24&list=PL4BBB74C7D2A1049C
-    - [ ] Linear Time BuildHeap (max-heap): https://www.youtube.com/watch?v=MiyLo8adrWw
-    - [ ] Implement a max-heap:
+    - [x] MIT: Heaps and Heap Sort: https://www.youtube.com/watch?v=B7hVxCmfPtM&index=4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
+    - [x] CS 61B Lecture 24: Priority Queues: https://www.youtube.com/watch?v=yIUFT6AKBGE&index=24&list=PL4BBB74C7D2A1049C
+    - [x] Linear Time BuildHeap (max-heap): https://www.youtube.com/watch?v=MiyLo8adrWw
+    - [x] Implement a max-heap:
         - [ ] insert
         - [ ] sift_up - needed for insert
         - [ ] get_max - returns the max item, without removing it
