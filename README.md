@@ -603,27 +603,27 @@ Then test it out on a computer to make sure it's not buggy from syntax.
         If you end up implementing red/black tree try just these:
         - search and insertion functions, skipping delete
     - I want to learn more about B-Tree since it's used so widely with very large data sets.
-    - [ ] Self-balancing binary search tree: https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree
+    - [x] Self-balancing binary search tree: https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree
 
-    - [ ] **AVL trees**
+    - [x] **AVL trees**
         - In practice:
             From what I can tell, these aren't used much in practice, but I could see where they would be:
             The AVL tree is another structure supporting O(log n) search, insertion, and removal. It is more rigidly
             balanced than red–black trees, leading to slower insertion and removal but faster retrieval. This makes it
             attractive for data structures that may be built once and loaded without reconstruction, such as language
             dictionaries (or program dictionaries, such as the opcodes of an assembler or interpreter).
-        - [ ] MIT AVL Trees / AVL Sort: https://www.youtube.com/watch?v=FNeL18KsWPc&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=6
-        - [ ] https://www.coursera.org/learn/data-structures/lecture/Qq5E0/avl-trees
-        - [ ] https://www.coursera.org/learn/data-structures/lecture/PKEBC/avl-tree-implementation
-        - [ ] https://www.coursera.org/learn/data-structures/lecture/22BgE/split-and-merge
+        - [x] MIT AVL Trees / AVL Sort: https://www.youtube.com/watch?v=FNeL18KsWPc&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=6
+        - [x] https://www.coursera.org/learn/data-structures/lecture/Qq5E0/avl-trees
+        - [x] https://www.coursera.org/learn/data-structures/lecture/PKEBC/avl-tree-implementation
+        - [x] https://www.coursera.org/learn/data-structures/lecture/22BgE/split-and-merge
 
-    - [ ] **Splay trees**
+    - [x] **Splay trees**
         - In practice:
             Splay trees are typically used in the implementation of caches, memory allocators, routers, garbage collectors,
             data compression, ropes (replacement of string used for long text strings), in Windows NT (in the virtual memory,
             networking, and file system code) etc.
-        - [ ] CS 61B: Splay Trees: https://www.youtube.com/watch?v=Najzh1rYQTo&index=23&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd
-        - [ ] MIT Lecture: Splay Trees:
+        - [x] CS 61B: Splay Trees: https://www.youtube.com/watch?v=Najzh1rYQTo&index=23&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd
+        - [x] MIT Lecture: Splay Trees:
                 - Gets very mathy, but watch the last 10 minutes for sure.
                 - https://www.youtube.com/watch?v=QnPl_Y6EqMo
 
