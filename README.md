@@ -627,7 +627,7 @@ Then test it out on a computer to make sure it's not buggy from syntax.
                 - Gets very mathy, but watch the last 10 minutes for sure.
                 - https://www.youtube.com/watch?v=QnPl_Y6EqMo
 
-    - [ ] **2-3 search trees**
+    - [x] **2-3 search trees**
         - In practice:
             2-3 trees have faster inserts at the expense of slower searches (since height is more compared to AVL trees).
         - You would use 2-3 tree very rarely because its implementation involves different types of nodes. Instead, people use Red Black trees.
@@ -635,7 +635,7 @@ Then test it out on a computer to make sure it's not buggy from syntax.
         - [ ] Binary View of 23-Tree: https://www.youtube.com/watch?v=iYvBtGKsqSg&index=3&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6
         - [ ] 2-3 Trees (student recitation): https://www.youtube.com/watch?v=TOb1tuEZ2X4&index=5&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp
 
-    - [ ] **2-3-4 Trees (aka 2-4 trees)**
+    - [x] **2-3-4 Trees (aka 2-4 trees)**
         - In practice:
             For every 2-4 tree, there are corresponding red–black trees with data elements in the same order. The insertion and deletion
             operations on 2-4 trees are also equivalent to color-flipping and rotations in red–black trees. This makes 2-4 trees an
@@ -645,7 +645,7 @@ Then test it out on a computer to make sure it's not buggy from syntax.
         - [ ] Bottom Up 234-Trees: https://www.youtube.com/watch?v=DQdMYevEyE4&index=4&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6
         - [ ] Top Down 234-Trees: https://www.youtube.com/watch?v=2679VQ26Fp4&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6&index=5
 
-    - [ ] **B-Trees**
+    - [x] **B-Trees**
         - fun fact: it's a mystery, but the B could stand for Boeing, Balanced, or Bayer (co-inventor)
         - In Practice:
             B-Trees are widely used in databases. Most modern filesystems use B-trees (or Variants). In addition to
@@ -660,7 +660,7 @@ Then test it out on a computer to make sure it's not buggy from syntax.
                 - covers cache-oblivious B-Trees, very interesting data structures
                 - the first 37 minutes are very technical, may be skipped (B is block size, cache line size)
 
-    - [ ] **Red/black trees**
+    - [x] **Red/black trees**
         - In practice:
             Red–black trees offer worst-case guarantees for insertion time, deletion time, and search time.
             Not only does this make them valuable in time-sensitive applications such as real-time applications,
@@ -684,43 +684,43 @@ Then test it out on a computer to make sure it's not buggy from syntax.
 
 ## Sorting
 
-- [ ] Notes:
+- [x] Notes:
     - Implement sorts & know best case/worst case, average complexity of each:
         - no bubble sort - it's terrible - O(n^2), except when n <= 16
-    - [ ] stability in sorting algorithms ("Is Quicksort stable?")
+    - [x] stability in sorting algorithms ("Is Quicksort stable?")
         - https://en.wikipedia.org/wiki/Sorting_algorithm#Stability
         - http://stackoverflow.com/questions/1517793/stability-in-sorting-algorithms
         - http://www.geeksforgeeks.org/stability-in-sorting-algorithms/
         - http://homepages.math.uic.edu/~leon/cs-mcs401-s08/handouts/stability.pdf
-    - [ ] Which algorithms can be used on linked lists? Which on arrays? Which on both?
+    - [x] Which algorithms can be used on linked lists? Which on arrays? Which on both?
         - I wouldn't recommend sorting a linked list, but merge sort is doable.
         - http://www.geeksforgeeks.org/merge-sort-for-linked-list/
 
 - For heapsort, see Heap data structure above. Heap sort is great, but not stable.
 
-- [ ] Bubble Sort: https://www.youtube.com/watch?v=P00xJgWzz2c&index=1&list=PL89B61F78B552C1AB
-- [ ] Analyzing Bubble Sort: https://www.youtube.com/watch?v=ni_zk257Nqo&index=7&list=PL89B61F78B552C1AB
-- [ ] Insertion Sort, Merge Sort: https://www.youtube.com/watch?v=Kg4bqzAqRBM&index=3&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
-- [ ] Insertion Sort: https://www.youtube.com/watch?v=c4BRHC7kTaQ&index=2&list=PL89B61F78B552C1AB
-- [ ] Merge Sort: https://www.youtube.com/watch?v=GCae1WNvnZM&index=3&list=PL89B61F78B552C1AB
-- [ ] Quicksort: https://www.youtube.com/watch?v=y_G9BkAm6B8&index=4&list=PL89B61F78B552C1AB
-- [ ] Selection Sort: https://www.youtube.com/watch?v=6nDMgr0-Yyo&index=8&list=PL89B61F78B552C1AB
+- [x] Bubble Sort: https://www.youtube.com/watch?v=P00xJgWzz2c&index=1&list=PL89B61F78B552C1AB
+- [x] Analyzing Bubble Sort: https://www.youtube.com/watch?v=ni_zk257Nqo&index=7&list=PL89B61F78B552C1AB
+- [x] Insertion Sort, Merge Sort: https://www.youtube.com/watch?v=Kg4bqzAqRBM&index=3&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
+- [x] Insertion Sort: https://www.youtube.com/watch?v=c4BRHC7kTaQ&index=2&list=PL89B61F78B552C1AB
+- [x] Merge Sort: https://www.youtube.com/watch?v=GCae1WNvnZM&index=3&list=PL89B61F78B552C1AB
+- [x] Quicksort: https://www.youtube.com/watch?v=y_G9BkAm6B8&index=4&list=PL89B61F78B552C1AB
+- [x] Selection Sort: https://www.youtube.com/watch?v=6nDMgr0-Yyo&index=8&list=PL89B61F78B552C1AB
 
-- [ ] Stanford lectures on sorting:
-    - [ ] https://www.youtube.com/watch?v=ENp00xylP7c&index=15&list=PLFE6E58F856038C69
-    - [ ] https://www.youtube.com/watch?v=y4M9IVgrVKo&index=16&list=PLFE6E58F856038C69
+- [x] Stanford lectures on sorting:
+    - [x] https://www.youtube.com/watch?v=ENp00xylP7c&index=15&list=PLFE6E58F856038C69
+    - [x] https://www.youtube.com/watch?v=y4M9IVgrVKo&index=16&list=PLFE6E58F856038C69
 
-- [ ] Shai Simonson, [Aduni.org](http://www.aduni.org/):
-    - [ ] https://www.youtube.com/watch?v=odNJmw5TOEE&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=2
-    - [ ] https://www.youtube.com/watch?v=hj8YKFTFKEE&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=3
+- [x] Shai Simonson, [Aduni.org](http://www.aduni.org/):
+    - [x] https://www.youtube.com/watch?v=odNJmw5TOEE&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=2
+    - [x] https://www.youtube.com/watch?v=hj8YKFTFKEE&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=3
 
-- [ ] Steven Skiena lectures on sorting:
+- [x] Steven Skiena lectures on sorting:
     - [ ] lecture begins at 26:46: https://youtu.be/ute-pmMkyuk?list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&t=1600
     - [ ] lecture begins at 27:40: https://www.youtube.com/watch?v=yLvp-pB8mak&index=8&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b
     - [ ] lecture begins at 35:00: https://www.youtube.com/watch?v=q7K9otnzlfE&index=9&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b
     - [ ] lecture begins at 23:50: https://www.youtube.com/watch?v=TvqIGu9Iupw&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=10
 
-- [ ] UC Berkeley:
+- [x] UC Berkeley:
     - [ ] CS 61B Lecture 29: Sorting I: https://www.youtube.com/watch?v=EiUvYS2DT6I&list=PL4BBB74C7D2A1049C&index=29
     - [ ] CS 61B Lecture 30: Sorting II: https://www.youtube.com/watch?v=2hTY3t80Qsk&list=PL4BBB74C7D2A1049C&index=30
     - [ ] CS 61B Lecture 32: Sorting III: https://www.youtube.com/watch?v=Y6LOLpxg6Dc&index=32&list=PL4BBB74C7D2A1049C
@@ -739,7 +739,7 @@ Then test it out on a computer to make sure it's not buggy from syntax.
     - Selection sort and insertion sort are both O(n^2) average and worst case
     - For heapsort, see Heap data structure above.
 
-- [ ] For curiosity - not required:
+- [x] For curiosity - not required:
     - [ ] Radix Sort: http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#radixSort
     - [ ] Radix Sort: https://www.youtube.com/watch?v=xhr26ia4k38
     - [ ] Radix Sort, Counting Sort (linear time given constraints): https://www.youtube.com/watch?v=Nz1KZXbghj8&index=7&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
