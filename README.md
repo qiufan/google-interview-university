@@ -849,14 +849,14 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - [ ] Local pairwise sequence alignment: https://www.coursera.org/learn/algorithmic-thinking-2/lecture/WnNau/local-pairwise-sequence-alignment
 
 - ### Combinatorics (n choose k) & Probability
-    - [ ] Math Skills: How to find Factorial, Permutation and Combination (Choose): https://www.youtube.com/watch?v=8RRo6Ti9d0U
-    - [ ] Make School: Probability: https://www.youtube.com/watch?v=sZkAAk9Wwa4
-    - [ ] Make School: More Probability and Markov Chains: https://www.youtube.com/watch?v=dNaJg-mLobQ
-    - [ ] Khan Academy:
+    - [x] Math Skills: How to find Factorial, Permutation and Combination (Choose): https://www.youtube.com/watch?v=8RRo6Ti9d0U
+    - [x] Make School: Probability: https://www.youtube.com/watch?v=sZkAAk9Wwa4
+    - [x] Make School: More Probability and Markov Chains: https://www.youtube.com/watch?v=dNaJg-mLobQ
+    - [x] Khan Academy:
         - Course layout:
-            - [ ] https://www.khanacademy.org/math/probability/probability-and-combinatorics-topic 
+            - [x] https://www.khanacademy.org/math/probability/probability-and-combinatorics-topic 
         - Just the videos - 41 (each are simple and each are short):
-            - [ ] https://www.youtube.com/watch?v=uzkc-qNVoOk&list=PLC58778F28211FA19
+            - [x] https://www.youtube.com/watch?v=uzkc-qNVoOk&list=PLC58778F28211FA19
 
 - ### NP, NP-Complete and Approximation Algorithms
     - Know about the most famous classes of NP-complete problems, such as traveling salesman and the knapsack problem,
